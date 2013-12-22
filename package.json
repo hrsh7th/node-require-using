@@ -1,6 +1,6 @@
 {
   "name": "require-using",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "require for setup dir.",
   "main": "index.js",
   "scripts": {
