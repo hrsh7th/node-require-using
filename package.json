@@ -7,8 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "hrsh7th <hrsh7th@gmail.com> (https://github.com/hrsh7th)",
-  "license": "BSD-2-Clause",
-  "dependencies": {
-    "config": "~0.4.33"
-  }
+  "license": "BSD-2-Clause"
 }
